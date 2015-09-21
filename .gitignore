@@ -1,0 +1,13 @@
+# Created by .gitignore support plugin (hsz.mobi)
+/.[iI]dea
+/node_modules
+/bower_components
+/src/components
+/src/bower_components
+/reports/
+
+/.tmp/
+/build/
+/dist/
+
+npm-debug*
